@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DarrenJZTan/DarrenJZTan/main/Chibi.png" alt="Banner">
+</p>
+
 <h1 align="center">Darren Tan</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
 
